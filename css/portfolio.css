@@ -1,0 +1,27 @@
+.portfolio {
+}
+.portfolio-title {
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.11;
+    color: #2e2f42;
+}
+.portfolio-card{
+
+}
+
+.portfolio-item {
+}
+
+.portfolio-item-img {
+}
+.portfolio-item-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color:#2e2f42
+}
+.portfolio-text {
+    font-size: 16px;
+    color: #434455;
+}

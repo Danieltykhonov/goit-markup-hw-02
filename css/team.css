@@ -2,18 +2,29 @@
     background-color: #F4F4FD;
 }
 .team-title {
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.11;
+  color: #2e2f42;
 }
 .team-list {
 }
 .team-card{
   background-color: #FFFFFF;
   text-align: center;
-  height: auto;
+}
+
+.team-card img {
+    
 }
 .team-img { 
 
 }
 .team-img-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
 }
 .team-p {
 }
